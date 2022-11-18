@@ -2,4 +2,4 @@
 #Build settings
 markdown: kramdown
 theme: Minima
-remote_theme: benbaltr/retlab
+remote_theme: benbalter/retlab

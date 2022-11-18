@@ -1,2 +1,2 @@
 # spatialdecision
-theme: minima
+theme: Minima
